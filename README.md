@@ -1,5 +1,7 @@
 # 🚀 CRYPTO DASH
 
+**Live Demo:** [https://crypto-dash-eight-psi.vercel.app/](https://crypto-dash-eight-psi.vercel.app/)
+
 A simple cryptocurrency dashboard built with **React** that fetches live data from the CoinGecko API and displays it in a clean, responsive interface.
 
 ## ✨ Features
